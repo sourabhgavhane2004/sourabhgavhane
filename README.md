@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh Gavhane</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img src="https://static.vecteezy.com/system/resources/previews/005/607/176/large_2x/a-data-analyst-sits-at-work-in-front-of-a-computer-device-showing-statistics-and-graphs-in-front-of-him-flat-style-cartoon-illustration-free-vector.jpg" width="450px" align="right" alt="">
 
 - 🔭 I’m currently working on [EDA on Titanic](https://colab.research.google.com/drive/1sL55s66KhKGz-JctOfJ1u8Ki99_VMJkL#scrollTo=wHFf5vdyutzW)
 
